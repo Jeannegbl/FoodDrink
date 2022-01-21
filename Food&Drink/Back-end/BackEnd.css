@@ -45,7 +45,7 @@
 section{
     padding: 1em;
 }
-.info, .add{
+.add{
     background-color:rgba(227, 207, 176, 0.9);
 }
 .season, .list{
@@ -75,11 +75,6 @@ div{
     margin-right: auto;
 }
 
-.btn-info{
-    position: relative;
-    margin-left: 0;
-    margin-right: 0;
-}
 
 label{
 	width: 6%;
